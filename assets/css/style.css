@@ -1,0 +1,16 @@
+.au{
+    position: relative;
+    left:300px ;
+    text-align: center;
+    
+  }
+  .Y{
+    position: relative;
+   bottom: 30px;
+    
+  }
+.hhh{
+  position: relative;
+  left: 300px;
+  display: flex;
+}
